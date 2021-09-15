@@ -66,7 +66,7 @@ section .wave {
   left: 0%;
   width: 100%;
   height: 100px;
-  background: url("/assets/img/wave.png");
+  background: url("../img/wave.png");
   background-size: 1000px 100px;
  
 }
@@ -156,42 +156,42 @@ section .wave.wave4 {
   color: #5B39B0 ;
 }
 .clean {
-  background: url("/assets/img/bgg1.png");
+  background: url("../img/bgg1.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover; }
 .clean:hover {
-  background: url("/assets/img/bgg1.png");
+  background: url("../img/bgg1.png");
   filter: brightness(1);
   transition: all 0.4s;
 
 }
 .webdes {
-  background: url("/assets/img/bgg1.png");
+  background: url("../img/bgg1.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   
 }
 .webdes:hover {
-  background: url("/assets/img/bgg1.png");
+  background: url("../img/bgg1.png");
   filter: brightness(1);
   transition: all 0.4s;
 }
 .webdev {
-  background: url("/assets/img/bgg1.png");
+  background: url("../img/bgg1.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover; 
 }
 .webdev:hover {
-  background: url("/assets/img/bgg1.png");
+  background: url("../img/bgg1.png");
   filter: brightness(1);
   transition: all 0.4s;
 }
   
   .service-section {
-    background: url("/assets/img/Animated\ Shape.svg");
+    background: url("../img/Animated\ Shape.svg");
     background-size: cover;
     background-position: center;
     min-height: 100vh;
@@ -203,7 +203,7 @@ section .wave.wave4 {
 
   
   .work-section {
-    background: url("/assets/img/bgg1.png");
+    background: url("../img/bgg1.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover; 
@@ -305,7 +305,7 @@ section .wave.wave4 {
 }
 /* ABOUT */
 .about-section {
-  background: url("/assets/img/Animated\ Shapee.svg");
+  background: url("../img/Animated\ Shapee.svg");
   background-size: cover;
   background-position: center;
   min-height: 100vh;
@@ -361,7 +361,7 @@ section .wave.wave4 {
 
 /* Contact */
 .contact-section {
-  background: url("/assets/img/bgg1.png");
+  background: url("../img/bgg1.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover; 
